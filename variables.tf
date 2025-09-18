@@ -7,7 +7,7 @@ variable "region" {
 variable "az" {
   description = "Availability zone for subnet (optional)"
   type        = string
-  default     = "ap-south-1a"
+  default     = "us-east-1a"
 }
 
 variable "vpc_cidr" {
