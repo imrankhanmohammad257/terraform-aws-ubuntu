@@ -31,5 +31,5 @@ variable "instance_type" {
 variable "key_name" {
   description = "Name of an existing AWS Key Pair to allow SSH (optional). If null, login via SSH won't be available until you import/attach a key."
   type        = string
-  default     = "mumbai"
+  default     = "first_server1"
 }
