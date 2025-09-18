@@ -38,7 +38,7 @@ This project provisions an AWS infrastructure using **Terraform**. It sets up a 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/terraform-aws-apache.git
+git clone https://github.com/imrankhanmohammad257/terraform-aws-ubuntu.git
 cd terraform-aws-apache
 ```
 
